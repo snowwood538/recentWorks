@@ -1,0 +1,5 @@
+{
+  "URL": "https://vk.com/",
+  "BASE_URI": "https://api.vk.com/method/",
+  "ACCESS_TOKEN": "<insert access token>"
+}

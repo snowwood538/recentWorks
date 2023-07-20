@@ -1,0 +1,13 @@
+{
+  "POSTS": "/posts",
+  "USERS": "/users",
+  "EXPECTED_ID": 99,
+  "EXPECTED_USER_ID": 10,
+  "EXPECTED_POST_NOT_FOUND_ID": 150,
+  "POST_USER_ID": 1,
+  "USER_ID": 101,
+  "GET_USER_ID": 5,
+  "EXPECTED_LENGTH": 10,
+  "LENGTH_OF_GENERATION": 10
+
+}

@@ -1,0 +1,7 @@
+{
+  "DOMAIN": "https://jsonplaceholder.typicode.com",
+  "BROWSER": "Chrome",
+  "DATA_BASE_URL": "<insert data base url>",
+  "USER": "<insert user name>",
+  "PASSWORD": "<insert password>"
+}
