@@ -1,0 +1,6 @@
+{
+  "URI": "localhost:8080",
+  "HTTP": "http://",
+  "WEB_ENDPOINT": "/web",
+  "API_ENDPOINT": "/api"
+}

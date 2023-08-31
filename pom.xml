@@ -16,6 +16,7 @@
         <module>DataBase</module>
         <module>RestApi</module>
         <module>UserInterface</module>
+        <module>ExamTask</module>
     </modules>
 
     <properties>
